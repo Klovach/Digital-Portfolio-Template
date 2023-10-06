@@ -1,0 +1,8 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+.rounded-image {
+  border-radius: 24px;
+}
+
