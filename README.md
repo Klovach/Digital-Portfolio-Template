@@ -1,5 +1,6 @@
 # Digital-Portfolio-Template
 A free to use digital portfolio website design for beginners. ✅
+
 This project is an ongoing initiative created for the Game Development Committee at our university. Its primary aim is to help students become proficient in utilizing GitHub repositories and mastering the art of self-promotion. The final product will have a complete about page, an animated avatar, a gallery page, and contact page. By providing a hands-on experience, our goal is to empower students to effectively showcase their skills and work, fostering a strong foundation for their future careers in game development, software development, or web development.
 
 # Digital Portfolio Template - Iteration #1
