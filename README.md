@@ -20,7 +20,7 @@ Welcome to the Digital Portfolio Template! Are you a beginner eager to showcase 
 
 📧 **Contact**: Make it easy for others to connect with you by including contact information and social media links.
 
-💸 **Free and Open Source**: Enjoy a professional-looking portfolio without breaking the bank. This template is free to use, easy to edit on the fly in time for career fairs, and open-source.
+💸 **Free To Use**: Enjoy a professional-looking portfolio without breaking the bank. This template is free to use, easy to edit on the fly in time for career fairs.
 
 ## Express Yourself
 
