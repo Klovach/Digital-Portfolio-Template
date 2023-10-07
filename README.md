@@ -13,7 +13,7 @@ Welcome to the Digital Portfolio Template! Are you a beginner eager to showcase 
 
 ✅ **User-Friendly**: Designed with beginners in mind, this template requires little experience with HTML/CSS skills, making it perfect for those new to digital portfolios.
 
-✏️ **Easy Customization**: Personalize your portfolio to reflect your style with customizable colors, fonts, and layouts. 
+✏️ **Easy Customization**: Personalize your portfolio to reflect your style with customizable colors, fonts, and images.  
 
 📱 **Responsive Design**: Your portfolio will look great on any device, ensuring a seamless viewing experience for your visitors. 
 
